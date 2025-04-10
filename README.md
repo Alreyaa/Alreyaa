@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Enhancing my skills in AI and building robotics-based projects.**
 
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **AI and Machine learning to build smarter and useful applications.**
 
 - 📫 How to reach me **dsouzaalreya@gmail.com**
 
